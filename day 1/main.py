@@ -4,9 +4,9 @@ app=FastAPI()
 
 @app.get("/")
 def intro():
-    return {"Hello, I'm Vivek"}
+    return {"message":"Hello, I'm Vivek"}
 
 @app.get("/about")
 def moreinfo():
-    return {"I'm a MTech Student"}
+    return {"message":"I'm a MTech Student"}
 
