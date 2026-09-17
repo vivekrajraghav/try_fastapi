@@ -8,9 +8,6 @@ This repository contains my very first steps in learning FastAPI. It is a simple
 
 ## 📝 The Code (`main.py`)
 This is the foundational code for the API. 
-
-*Note: The return statements use standard Python dictionaries (e.g., `{"key": "value"}`). This is crucial because FastAPI automatically converts Python dictionaries into JSON format for the web. Returning a set like `{"Hello"}` will cause a server error!*
-
 ```python
 from fastapi import FastAPI
 
