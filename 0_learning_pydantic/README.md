@@ -75,16 +75,6 @@ update_details(student1)
 * **Package Manager:** uv
 * **Core Library:** Pydantic
 
-To run this locally using `uv`:
-
-```bash
-uv venv --python 3.11
-source .venv/bin/activate  # On Linux/macOS/WSL
-uv pip install pydantic
-python main.py
-
-```
-
 ## Running the Code Locally
 
 You can set up the environment and run the code locally using `uv`:
