@@ -89,4 +89,3 @@ def sort_students(
 uvicorn main:app --reload
 
 ```
-4. Explore the automatic documentation by visiting **[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs?utm_source=gemini)** to test out the new Path and Query parameters!
