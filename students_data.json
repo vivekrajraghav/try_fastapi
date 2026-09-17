@@ -1,0 +1,167 @@
+{
+    "STU1001": {
+        "student_id": "STU1001",
+        "first_name": "Aarav",
+        "last_name": "Patel",
+        "age": 19,
+        "email": "aarav.patel9@example.edu",
+        "major": "Data Science",
+        "gpa": 3.98,
+        "enrollment_year": 2026,
+        "is_active": false
+    },
+    "STU1002": {
+        "student_id": "STU1002",
+        "first_name": "Olivia",
+        "last_name": "Wilson",
+        "age": 20,
+        "email": "olivia.wilson84@example.edu",
+        "major": "Data Science",
+        "gpa": 3.75,
+        "enrollment_year": 2023,
+        "is_active": true
+    },
+    "STU1003": {
+        "student_id": "STU1003",
+        "first_name": "Neha",
+        "last_name": "Miller",
+        "age": 19,
+        "email": "neha.miller39@example.edu",
+        "major": "Electrical Engineering",
+        "gpa": 2.58,
+        "enrollment_year": 2024,
+        "is_active": false
+    },
+    "STU1004": {
+        "student_id": "STU1004",
+        "first_name": "Noah",
+        "last_name": "Joshi",
+        "age": 23,
+        "email": "noah.joshi26@example.edu",
+        "major": "Mechanical Engineering",
+        "gpa": 2.65,
+        "enrollment_year": 2026,
+        "is_active": false
+    },
+    "STU1005": {
+        "student_id": "STU1005",
+        "first_name": "Anjali",
+        "last_name": "Wilson",
+        "age": 24,
+        "email": "anjali.wilson1@example.edu",
+        "major": "Biotechnology",
+        "gpa": 3.2,
+        "enrollment_year": 2024,
+        "is_active": false
+    },
+    "STU1006": {
+        "student_id": "STU1006",
+        "first_name": "Rahul",
+        "last_name": "Gupta",
+        "age": 23,
+        "email": "rahul.gupta59@example.edu",
+        "major": "Computer Science",
+        "gpa": 3.83,
+        "enrollment_year": 2023,
+        "is_active": false
+    },
+    "STU1007": {
+        "student_id": "STU1007",
+        "first_name": "Olivia",
+        "last_name": "Das",
+        "age": 23,
+        "email": "olivia.das38@example.edu",
+        "major": "Electrical Engineering",
+        "gpa": 2.91,
+        "enrollment_year": 2023,
+        "is_active": false
+    },
+    "STU1008": {
+        "student_id": "STU1008",
+        "first_name": "Aarav",
+        "last_name": "Patel",
+        "age": 18,
+        "email": "aarav.patel29@example.edu",
+        "major": "Computer Science",
+        "gpa": 2.72,
+        "enrollment_year": 2023,
+        "is_active": true
+    },
+    "STU1009": {
+        "student_id": "STU1009",
+        "first_name": "Emma",
+        "last_name": "Moore",
+        "age": 24,
+        "email": "emma.moore27@example.edu",
+        "major": "Electrical Engineering",
+        "gpa": 3.55,
+        "enrollment_year": 2025,
+        "is_active": true
+    },
+    "STU1010": {
+        "student_id": "STU1010",
+        "first_name": "Anjali",
+        "last_name": "Singh",
+        "age": 20,
+        "email": "anjali.singh84@example.edu",
+        "major": "Computer Science",
+        "gpa": 3.38,
+        "enrollment_year": 2023,
+        "is_active": false
+    },
+    "STU1011": {
+        "student_id": "STU1011",
+        "first_name": "Liam",
+        "last_name": "Gupta",
+        "age": 23,
+        "email": "liam.gupta92@example.edu",
+        "major": "Biotechnology",
+        "gpa": 3.06,
+        "enrollment_year": 2024,
+        "is_active": true
+    },
+    "STU1012": {
+        "student_id": "STU1012",
+        "first_name": "Vikram",
+        "last_name": "Sharma",
+        "age": 23,
+        "email": "vikram.sharma99@example.edu",
+        "major": "Electrical Engineering",
+        "gpa": 3.21,
+        "enrollment_year": 2025,
+        "is_active": false
+    },
+    "STU1013": {
+        "student_id": "STU1013",
+        "first_name": "Emma",
+        "last_name": "Kumar",
+        "age": 18,
+        "email": "emma.kumar82@example.edu",
+        "major": "Electrical Engineering",
+        "gpa": 3.53,
+        "enrollment_year": 2024,
+        "is_active": true
+    },
+    "STU1014": {
+        "student_id": "STU1014",
+        "first_name": "Vikram",
+        "last_name": "Patel",
+        "age": 23,
+        "email": "vikram.patel57@example.edu",
+        "major": "Computer Science",
+        "gpa": 3.19,
+        "enrollment_year": 2023,
+        "is_active": true
+    },
+    "STU1015": {
+        "student_id": "STU1015",
+        "first_name": "Vikram",
+        "last_name": "Bose",
+        "age": 20,
+        "email": "vikram.bose31@example.edu",
+        "major": "Computer Science",
+        "gpa": 2.51,
+        "enrollment_year": 2024,
+        "is_active": false
+    }
+}
